@@ -1,0 +1,5 @@
+libpcap version 1.7.4
+Total number of packets in pcap file : 2043
+Total Number of TCP Flows initiated by the sender = 1
+Total time taken : 353.0 ms
+Total number of bytes : 2257322.0
