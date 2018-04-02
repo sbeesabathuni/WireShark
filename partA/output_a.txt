@@ -1,0 +1,54 @@
+libpcap version 1.7.4
+Total number of packets in pcap file : 24125
+Total Number of TCP Flows initiated by the sender = 3
+43502
+43500
+43498
+=======================TCP Flow 1 for 43502 ============================
+Transaction 1 :
+Source : 43502 Destn : 80 Seq : 2558634654 Ack : 3429921723 Window size :3
+Source : 80 Destn : 43502 Seq : 3429921723 Ack : 2558634654 Window size :3
+Transaction 2 :
+Source : 43502 Destn : 80 Seq : 2558636102 Ack : 3429921723 Window size :3
+Source : 80 Destn : 43502 Seq : 3429921723 Ack : 2558636102 Window size :3
+currentSentPacketsTime : 740.0
+currentSentPacketsLength : 1096722.0
+
+No of Packets Sent :727.0
+No of Received Packets :455.0
+Empirical Throughput :11.856454054054053 Mb/s
+LossRate = 0.3741403
+Average RTT :74.6703912554608 ms
+Theoretical Throughput :0.3119873648016483 Mb/s
+=======================TCP Flow 2 for 43500 ============================
+Transaction 1 :
+Source : 43500 Destn : 80 Seq : 3636173876 Ack : 2335809728 Window size :3
+Source : 80 Destn : 43500 Seq : 2335809728 Ack : 3636173876 Window size :3
+Transaction 2 :
+Source : 43500 Destn : 80 Seq : 3636175324 Ack : 2335809728 Window size :3
+Source : 80 Destn : 43500 Seq : 2335809728 Ack : 3636175324 Window size :3
+currentSentPacketsTime : 8320.0
+currentSentPacketsLength : 1.0695176E7
+
+No of Packets Sent :7066.0
+No of Received Packets :4765.0
+Empirical Throughput :10.283823076923076 Mb/s
+LossRate = 0.32564393
+Average RTT :72.78796336326735 ms
+Theoretical Throughput :0.3430612092049741 Mb/s
+=======================TCP Flow 3 for 43498 ============================
+Transaction 1 :
+Source : 43498 Destn : 80 Seq : 705669127 Ack : 1921750144 Window size :3
+Source : 80 Destn : 43498 Seq : 1921750144 Ack : 705669127 Window size :3
+Transaction 2 :
+Source : 43498 Destn : 80 Seq : 705670575 Ack : 1921750144 Window size :3
+Source : 80 Destn : 43498 Seq : 1921750144 Ack : 705670575 Window size :3
+currentSentPacketsTime : 2010.0
+currentSentPacketsLength : 1.0557402E7
+
+No of Packets Sent :6975.0
+No of Received Packets :4128.0
+Empirical Throughput :42.0195104477612 Mb/s
+LossRate = 0.40817204
+Average RTT :72.46018800501683 ms
+Theoretical Throughput :0.3078091958489019 Mb/s
